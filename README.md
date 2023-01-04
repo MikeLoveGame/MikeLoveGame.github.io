@@ -56,7 +56,6 @@
          
             <ul>
                <li><a href="./project1.html">Simple Collision Simulation</a></li>
-               <li><a href="./project2.html">Personal Side project 2 Demo</a></li>
             </ul>
              
 
