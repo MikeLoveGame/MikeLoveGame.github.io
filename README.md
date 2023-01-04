@@ -1,1 +1,1 @@
-# Personal-website
+open the Personal website by running personalWebsite.html
