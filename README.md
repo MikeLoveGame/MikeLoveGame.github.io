@@ -1,4 +1,3 @@
-open the Personal website by running personalWebsite.html
 <!DOCTYPE html>
 <html>
    <head>
