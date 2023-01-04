@@ -17,25 +17,8 @@
             width: 90%;
             margin: 0 auto;
             padding: 20px 0;
-         }
-
-         
-         .project{
-            margin-bottom: 20px;
-            padding: 10px;
-            background-color: rgb(223, 219, 110);
-            font-size: 14px;
-         }
-         a{
-            color: #003399;
-            text-decoration: none;
-         }
-         a:hover{
-            text-decoration: underline;
-         }
-
-         
-      </style>
+         }   
+        </style>
    </head>
    <body>
       <h1>Personal Website</h1>
@@ -51,15 +34,10 @@
                </ul>
                <a href="./Shike Chen.pdf">Download my resume</a><br><br>
                <a href="mailto:doubizhandouji@gmail.com">doubizhandouji@gmail.com</a>.
-            </p>
-
-         
             <ul>
                <li><a href="./project1.html">Simple Collision Simulation</a></li>
             </ul>
-             
-
-         </div>
-      </div>
+            </p>
+        </div>
    </body>
 </html>
