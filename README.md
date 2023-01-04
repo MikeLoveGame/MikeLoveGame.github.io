@@ -18,7 +18,25 @@
             margin: 0 auto;
             padding: 20px 0;
          }
-         </style>
+
+         
+         .project{
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: rgb(223, 219, 110);
+            font-size: 14px;
+         }
+         a{
+            color: #003399;
+            text-decoration: none;
+         }
+         a:hover{
+            text-decoration: underline;
+         }
+
+         
+      </style>
+   </head>
    <body>
       <h1>Personal Website</h1>
       <div id="container">
@@ -32,11 +50,16 @@
                <li>Interested in working as a fullstack, back-end developer or a Machine learning specialist. </li> 
                </ul>
                <a href="./Shike Chen.pdf">Download my resume</a><br><br>
-               <a href="mailto:doubizhandouji@gmail.com">doubizhandouji@gmail.com</a>
-                <ul>
-               <li><a href="./project1.html">Simple Collision Simulation</a></li>
-            </ul>
+               <a href="mailto:doubizhandouji@gmail.com">doubizhandouji@gmail.com</a>.
             </p>
 
+         
+            <ul>
+               <li><a href="./project1.html">Simple Collision Simulation</a></li>
+            </ul>
+             
+
+         </div>
+      </div>
    </body>
 </html>
