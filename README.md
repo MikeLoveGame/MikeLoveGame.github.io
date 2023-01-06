@@ -20,7 +20,6 @@
         </style>
    </head>
    <body>
-      <h1>Personal Website</h1>
       <div id="container">
             <h2>Welcome to Shike Chen's personal website</h2>
             <h3>About Me</h3>
