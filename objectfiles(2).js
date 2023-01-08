@@ -213,7 +213,7 @@ for (let i = 0; i < 200; i++) {
 addEventListener('click', (event)=>{
     x= new sphere(randint(5,15),event.clientX, event.clientY,0,randcolor(), 1);
     spheres.push({
-        value: new sphere(randint(5,15),event.clientX, event.clientY,0,randcolor(), 1)
+        value: x
     }
     );
     x.setRandom2DSpeed();
