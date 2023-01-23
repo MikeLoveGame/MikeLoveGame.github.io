@@ -217,6 +217,7 @@ addEventListener('click', (event)=>{
     }
     );
     x.setRandom2DSpeed();
+    console.log(x.x);
     x.draw();
     }
 )
