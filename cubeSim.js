@@ -15,7 +15,7 @@ var cube = {
     x: 0,
     y: 0,
     z: 0,
-    size: 200,
+    size: 100,
     angle: 0
 };
 
