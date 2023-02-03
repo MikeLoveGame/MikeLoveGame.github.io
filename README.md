@@ -23,7 +23,7 @@
       <div id="container">
             <h2>Welcome to Shike Chen's personal website</h2>
             <h3>About Me</h3>
-            <img src="myPic.jpg" alt="my avatar" height="400">
+            <img src="myPic.jpg" alt="my avatar" width="300" height="400">
             <p>
                <ul>
                <li>I'm a second year Software Engineering student at Mcmaster University. </li> 
