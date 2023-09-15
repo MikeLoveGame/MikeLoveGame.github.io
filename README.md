@@ -37,5 +37,10 @@
             </ul>
             </p>
         </div>
+        <div id="touchingPad">
+        
+        </div>
+        <script id="touchingPad.vue"> </script>
+
    </body>
 </html>
